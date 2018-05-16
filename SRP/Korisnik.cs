@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SRP
+{
+    public class Korisnik
+    {
+        public string ime { get; set; }
+        public string prezime { get; set; }
+    }
+}
+
+
+
